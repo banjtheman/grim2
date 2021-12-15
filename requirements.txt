@@ -1,0 +1,11 @@
+streamlit
+yellowbrick
+altair
+pandas
+plotly
+wordcloud
+seaborn
+streamlit-yellowbrick
+umap-learn
+Flask==1.1.2
+Flask-Cors
